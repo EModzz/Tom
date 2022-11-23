@@ -1,0 +1,12 @@
+var Nb_1, Nb_2, Nb_3;
+Nb_1 = 1;
+Nb_2 = 2;
+Nb_3 = 0;
+alert (Nb_1);
+alert (Nb_2);
+alert ("On permute!");
+Nb_3 = Nb_1;
+Nb_1 = Nb_2;
+Nb_2 = Nb_3;
+alert (Nb_1);
+alert (Nb_2);
